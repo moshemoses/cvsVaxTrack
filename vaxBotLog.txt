@@ -1,0 +1,92 @@
+
+ open file: 2021-02-14 22:45:02.720739 
+	 Brigantine, NJ -- Fully Booked 
+	 Cedar Grove, NJ -- Fully Booked 
+	 Chatham, NJ -- Fully Booked 
+	 Dumont, NJ -- Fully Booked 
+	 East Brunswick, NJ -- Fully Booked 
+	 Edison, NJ -- Fully Booked 
+	 Elizabeth, NJ -- Fully Booked 
+	 Flemington, NJ -- Fully Booked 
+	 Green Brook, NJ -- Fully Booked 
+	 Hackettstown, NJ -- Fully Booked 
+	 Harrison Township, NJ -- Fully Booked 
+	 Hazlet, NJ -- Fully Booked 
+	 Highlands, NJ -- Fully Booked 
+	 Ledgewood, NJ -- Fully Booked 
+	 Northvale, NJ -- Fully Booked 
+	 Princeton, NJ -- Fully Booked 
+	 Ringwood, NJ -- Fully Booked 
+	 Seaside Heights, NJ -- Fully Booked 
+	 Tabernacle, NJ -- Fully Booked 
+	 Union, NJ -- Fully Booked 
+	 Union City, NJ -- Fully Booked 
+	 Vernon, NJ -- Fully Booked 
+	 Villas, NJ -- Fully Booked 
+	 Vineland, NJ -- Fully Booked 
+	 Voorhees, NJ -- Fully Booked 
+	 West Orange, NJ -- Fully Booked 
+	 Whiting, NJ -- Fully Booked 
+Error: 2021-02-14 22:45:16.046376 
+Close File: 2021-02-14 22:45:18.456871 
+
+ open file: 2021-02-14 22:47:42.282131 
+	 Brigantine, NJ -- Fully Booked 
+	 Cedar Grove, NJ -- Fully Booked 
+	 Chatham, NJ -- Fully Booked 
+	 Dumont, NJ -- Fully Booked 
+	 East Brunswick, NJ -- Fully Booked 
+	 Edison, NJ -- Fully Booked 
+	 Elizabeth, NJ -- Fully Booked 
+	 Flemington, NJ -- Fully Booked 
+	 Green Brook, NJ -- Fully Booked 
+	 Hackettstown, NJ -- Fully Booked 
+	 Harrison Township, NJ -- Fully Booked 
+	 Hazlet, NJ -- Fully Booked 
+	 Highlands, NJ -- Fully Booked 
+	 Ledgewood, NJ -- Fully Booked 
+	 Northvale, NJ -- Fully Booked 
+	 Princeton, NJ -- Fully Booked 
+	 Ringwood, NJ -- Fully Booked 
+	 Seaside Heights, NJ -- Fully Booked 
+	 Tabernacle, NJ -- Fully Booked 
+	 Union, NJ -- Fully Booked 
+	 Union City, NJ -- Fully Booked 
+	 Vernon, NJ -- Fully Booked 
+	 Villas, NJ -- Fully Booked 
+	 Vineland, NJ -- Fully Booked 
+	 Voorhees, NJ -- Fully Booked 
+	 West Orange, NJ -- Fully Booked 
+	 Whiting, NJ -- Fully Booked 
+Error: module 'emailer' has no attribute 'email' - 2021-02-14 22:47:54.187194
+Close File: 2021-02-14 22:47:56.526362 
+
+ open file: 2021-02-14 22:48:19.871196 
+	 Brigantine, NJ -- Fully Booked 
+	 Cedar Grove, NJ -- Fully Booked 
+	 Chatham, NJ -- Fully Booked 
+	 Dumont, NJ -- Fully Booked 
+	 East Brunswick, NJ -- Fully Booked 
+	 Edison, NJ -- Fully Booked 
+	 Elizabeth, NJ -- Fully Booked 
+	 Flemington, NJ -- Fully Booked 
+	 Green Brook, NJ -- Fully Booked 
+	 Hackettstown, NJ -- Fully Booked 
+	 Harrison Township, NJ -- Fully Booked 
+	 Hazlet, NJ -- Fully Booked 
+	 Highlands, NJ -- Fully Booked 
+	 Ledgewood, NJ -- Fully Booked 
+	 Northvale, NJ -- Fully Booked 
+	 Princeton, NJ -- Fully Booked 
+	 Ringwood, NJ -- Fully Booked 
+	 Seaside Heights, NJ -- Fully Booked 
+	 Tabernacle, NJ -- Fully Booked 
+	 Union, NJ -- Fully Booked 
+	 Union City, NJ -- Fully Booked 
+	 Vernon, NJ -- Fully Booked 
+	 Villas, NJ -- Fully Booked 
+	 Vineland, NJ -- Fully Booked 
+	 Voorhees, NJ -- Fully Booked 
+	 West Orange, NJ -- Fully Booked 
+	 Whiting, NJ -- Fully Booked 
+Close File: 2021-02-14 22:48:34.452150 
